@@ -40,4 +40,4 @@ highlight_name: true
 
 Huanzhang Xia is a fourth year undergraduate student at the University of Toronto. Previously, she was a undergraduate student at the University of Ottawa. She transferred to UofT in 2019. Currently, she is working on the Multidisciplinary Capstone Design Project offered by the MCP office.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-1.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
