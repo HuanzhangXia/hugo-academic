@@ -1,13 +1,12 @@
 ---
 title: Huanzhang Xia
 role: Fourth-year Computer Science Student at the University of Toronto
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My academic interests include AI, ML, Human Computer Interaction and Data Analysis.
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-social:
+  - Human Computer Interaction
+  - Data Analysis
+<!-- social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
@@ -22,28 +21,23 @@ social:
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/ -->
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Toronto 
+    url: https://www.utoronto.ca
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Computer Science
+      institution: University of Toronto 
+      year: 2019 - present
+    - course: BSc in Computer Science
+      institution: University of Ottawa
+      year: 2018 - 2019
 email: ""
 superuser: true
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Huanzhang Xia is a fourth year undergraduate student at the University of Toronto. Previously, she was a undergraduate student at the University of Ottawa. She transferred to UofT in 2019. Currently, she is working on the Multidisciplinary Capstone Design Project offered by the MCP office.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
