@@ -17,10 +17,7 @@ links:
   url: https://www.polarisintelligence.com
 - name: Supervisor  
   url: https://www.mie.utoronto.ca/faculty_staff/gruninger/
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -30,3 +27,4 @@ url_video: ""
 #   slides: example
 ---
 
+Work in a group of four to design a system to extrapolate mobile location data out to the general population and speciﬁc segments (e.g., pedestrian traﬃc vs. automobile vs. public transit) and speciﬁc use cases
