@@ -21,16 +21,11 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: test@example.org
-appointment_url: 'https://calendly.com'
 contact_links:
   - icon: github
     icon_pack: fab
     name: GitHub 
     link: 'https://github.com/HuanzhangXia'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
 
 # Site header
 
